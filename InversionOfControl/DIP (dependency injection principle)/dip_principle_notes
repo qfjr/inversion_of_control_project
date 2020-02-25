@@ -1,0 +1,19 @@
+Dependency Inversion Principle (DIP) 
+
+
+- DIP is one of the SOLID object-oriented principles 
+
+- the following rules must be met to implement DIP
+
+    (1) hi-level modules should not depend on low-level modules. Both should depend on the abstraction
+    (2) abstrctions should not depend on details. Deatail should depened on abstractions
+
+- in the previous example (refer to CustomerBusinessLogic class in BeforeDIP folder) we implemented the factory pattern to 
+achieve IoC
+
+- but the CUstomerBUsinessLogic uses the CONCRETE DataAccess class, therefore it is still tightly coupled, even though we have inverted the dependent object
+creation to the factory class
+
+-we will use DIP on the CustomerBusinessLogic and the DataAccess classes to make them more loosely coupled 
+
+- 

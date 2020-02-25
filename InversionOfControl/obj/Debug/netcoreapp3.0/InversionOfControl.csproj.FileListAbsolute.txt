@@ -1,0 +1,11 @@
+C:\Users\qfjr\Desktop\IT Pro Skills Portfolio\IT Skills Projects\Domain Specific\Inversion of Control\InversionOfControl\InversionOfControl\bin\Debug\netcoreapp3.0\InversionOfControl.exe
+C:\Users\qfjr\Desktop\IT Pro Skills Portfolio\IT Skills Projects\Domain Specific\Inversion of Control\InversionOfControl\InversionOfControl\bin\Debug\netcoreapp3.0\InversionOfControl.deps.json
+C:\Users\qfjr\Desktop\IT Pro Skills Portfolio\IT Skills Projects\Domain Specific\Inversion of Control\InversionOfControl\InversionOfControl\bin\Debug\netcoreapp3.0\InversionOfControl.runtimeconfig.json
+C:\Users\qfjr\Desktop\IT Pro Skills Portfolio\IT Skills Projects\Domain Specific\Inversion of Control\InversionOfControl\InversionOfControl\bin\Debug\netcoreapp3.0\InversionOfControl.runtimeconfig.dev.json
+C:\Users\qfjr\Desktop\IT Pro Skills Portfolio\IT Skills Projects\Domain Specific\Inversion of Control\InversionOfControl\InversionOfControl\bin\Debug\netcoreapp3.0\InversionOfControl.dll
+C:\Users\qfjr\Desktop\IT Pro Skills Portfolio\IT Skills Projects\Domain Specific\Inversion of Control\InversionOfControl\InversionOfControl\bin\Debug\netcoreapp3.0\InversionOfControl.pdb
+C:\Users\qfjr\Desktop\IT Pro Skills Portfolio\IT Skills Projects\Domain Specific\Inversion of Control\InversionOfControl\InversionOfControl\obj\Debug\netcoreapp3.0\InversionOfControl.csprojAssemblyReference.cache
+C:\Users\qfjr\Desktop\IT Pro Skills Portfolio\IT Skills Projects\Domain Specific\Inversion of Control\InversionOfControl\InversionOfControl\obj\Debug\netcoreapp3.0\InversionOfControl.AssemblyInfoInputs.cache
+C:\Users\qfjr\Desktop\IT Pro Skills Portfolio\IT Skills Projects\Domain Specific\Inversion of Control\InversionOfControl\InversionOfControl\obj\Debug\netcoreapp3.0\InversionOfControl.AssemblyInfo.cs
+C:\Users\qfjr\Desktop\IT Pro Skills Portfolio\IT Skills Projects\Domain Specific\Inversion of Control\InversionOfControl\InversionOfControl\obj\Debug\netcoreapp3.0\InversionOfControl.dll
+C:\Users\qfjr\Desktop\IT Pro Skills Portfolio\IT Skills Projects\Domain Specific\Inversion of Control\InversionOfControl\InversionOfControl\obj\Debug\netcoreapp3.0\InversionOfControl.pdb

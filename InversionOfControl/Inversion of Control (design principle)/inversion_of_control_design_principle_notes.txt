@@ -1,0 +1,25 @@
+﻿Inversion of Control Design Principle 
+
+
+- used to invert different kinds of controls in object-oriented design to achieve loose coupling 
+
+- here controls refer to any additional responsibilities a class hass other than its own respnsibility
+	> control over the flow of an application
+	> control over the flow of an object creation or dependent object creation and binding
+
+- in an object-oriented design, classes should be designed in a loosely coupled way 
+
+- to solve all the problems with not implementing the inversion of control design principle (refer to the CustomerBusinessLogic class in BeforeInversionOfControlPrinciple) 
+we can use IoC
+
+- KEY CONCEPT!!!: IoC is a principle not a PATTERN, it just gives high-level design guidelines but does not give implementation details (you can implement the principle how we want)
+
+- the following patterns (but not limited!!) implement the IoC principle:
+	* Service Locator 
+	* Factory
+	* Abstract Factory 
+	* Template Method 
+	* Strategy 
+	* Dependency Injection 
+
+- in the AfterInversionOfControlPrinciple folder well use the Factory design pattern to implement the IoC principle
